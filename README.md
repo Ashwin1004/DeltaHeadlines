@@ -72,6 +72,11 @@ summary = summarize_text(pdf_text)
 print(summary)
 ```
 
+## **Sentence transformer Architecture**
+
+![WhatsApp Image 2025-03-13 at 09 50 33_51cc6713](https://github.com/user-attachments/assets/ea96368c-ef88-4efa-96a8-1bb5d894957a)
+
+
 ---
 
 ## Step 4: Text-to-Speech Conversion Using gTTS
