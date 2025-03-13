@@ -116,3 +116,11 @@ pip install img2pdf PyPDF2 transformers gtts
 ## Conclusion
 This project effectively integrates multiple tools and models for streamlined document processing. The use of `DeepScaleR-1.5B-Preview` ensures high-quality summarization, outperforming models like `facebook/bart-cnn` for complex text data. Combined with `gTTS`, this project provides a comprehensive pipeline from visual data to audio output.
 
+
+
+https://github.com/user-attachments/assets/13695d20-26b8-494b-b3c3-432fdfb2c107
+
+
+https://github.com/user-attachments/assets/a5cc5db1-20d7-41e0-94d5-b2c1f337b7f7
+
+
